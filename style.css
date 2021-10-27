@@ -12,17 +12,16 @@ body {
     flex: 1 1  auto;
     align-content: flex-start;
 }
+
 button {
-    margin: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
     padding: 5px 10px;
 }
+
 #container div {
     margin: 0px;
     padding: 0px;
     border: 1px solid black;
     box-sizing: border-box;
-}
-
-.hover {
-    background-color: black;
 }
