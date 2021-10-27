@@ -9,10 +9,8 @@ body {
     width: 900px;
     display: flex;
     flex-flow: row wrap;
-    flex: 0 0 auto;
+    flex: 1 1  auto;
     align-content: flex-start;
-    justify-content: center;
-    overflow: hidden;
 }
 button {
     margin: 10px;
